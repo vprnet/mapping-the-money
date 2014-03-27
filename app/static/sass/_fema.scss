@@ -1,0 +1,251 @@
+#exasperation {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+a#read-more {
+    font-size: 16px;
+}
+
+.key path {
+    display: none;
+}
+
+.key line {
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+p#click-for-help {
+    font-size: 12px;
+    margin: 0 0 5px;
+}
+
+.key text {
+    font-size: 10px;
+}
+
+.span6 {
+    max-width: 460px;
+}
+
+.span8 {
+    max-width: 620px;
+}
+
+.span4 {
+    max-width: 300px;
+}
+
+#relief_by_town {
+    margin-bottom: 0;
+}
+
+#underwriter-nav li {
+    display: inline;
+    font-size: 12px;
+}
+
+#underwriter-nav {
+    margin: 0 0 0 20px;
+}
+
+#div-gpt-ad-1365016583819-0 {
+    padding: 15px 0 0;
+}
+
+#town-header {
+    padding-left: 47px;
+}
+
+#town-header h2 {
+    margin-bottom: 0px;
+}
+
+#town-header p {
+    font-size: 12px;
+    line-height: 0.7em;
+    color: #777;
+}
+
+td span {
+    font-size: 12px;
+    color: #777;
+}
+
+#pie-chart #chart-0 {
+    margin-top: 30px;
+}
+
+#pie-chart #chart-0 svg {
+    z-index: 0;
+}
+
+#state-table {
+    z-index: 2;
+}
+
+#summary {
+    display: none;
+}
+
+#state-explanation {
+    margin: 20px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#town-info h3 {
+    margin: 55px 0 40px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.1em;
+}
+
+div#town-name h3 {
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    display: inline;
+    text-decoration: underline;
+}
+
+div#town-name p {
+    float: right;
+    margin-top: 11px;
+    display: none;
+    color: #777;
+}
+
+div#town-name p:hover {
+    text-decoration: underline;
+}
+
+td.help-popup:hover {
+    text-decoration: underline;
+}
+
+#help-popups div {
+    display: none;
+}
+
+#town-info table {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+#total-table {
+    margin: 30px 0 10px;
+}
+
+p#rounding-errors {
+    font-size: 12px;
+}
+
+div#equals {
+    margin: 20px 0;
+}
+
+.ihp-component {
+    color: #666;
+}
+
+.ihp-component td:first-child {
+    padding-left: 20px;
+}
+
+#other-table {
+    margin-top: 30px;
+}
+
+#pie-chart {
+    overflow: hidden;
+}
+
+#the-state h2 {
+    margin-bottom: 30px;
+}
+
+@media (min-width: 1024px) {
+    #the-data {
+        margin-left: 35px;
+    }
+    #the-people {
+        max-width: 275px;
+    }
+}
+
+@media (max-width: 820px) {
+    #town-info {
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    #town-info table {
+        margin-top: 20px;
+        font-size: 12px;
+        width: 95%;
+    }
+
+    #town-info td {
+        min-width: 80px;
+        max-width: 250px !important;
+    }
+
+    #town-info h3 {
+        line-height: 1.1em;
+    }
+    #mouse {
+        display: none;
+    }
+
+    #tap {
+        display: inline;
+    }
+}
+
+@media (max-width: 480px) {
+    #pie-chart #chart-0 {
+        position: relative;
+        right: 82px;
+    }
+    #state-explanation {
+        margin: 20px 10px 10px;
+    }
+    div#town-info table {
+        font-size: 12px;
+    }
+    div#town-info table td {
+        min-width: 70px;
+    }
+    #town-info {
+        margin-left: 0px;
+    }
+    div#town-name h3 {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    div#town-name p {
+        width: 100%;
+        text-align: center;
+        margin: 5px 0 2px;
+    }
+}
+
+table tbody td, table tbody th {
+    text-align: right !important;
+    &:first-child {
+        text-align: left !important;
+    }
+}
+
+#supplemental-dollars {
+    margin-left: 20px;
+    font-size: 14px;
+    color: #888;
+    font-weight: 300;
+}

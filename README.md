@@ -1,14 +1,19 @@
-#VPR Webfaction Project Template
-This stack is used by VPR to publish news apps and can be used for anything from building a blog to creating web applications.
+#Mapping The Money
+This project explores the financial aspect of the relief effort in Vermont following Tropical Storm Irene.
 
-This template assumes that your host is Webfaction and includes a good deal of VPR specific code. For a more generic template, see the [VPR App Template](http://github.com/vprnet/app-template) that was the basis for this template.
+It's official starting point is within the [TS Irene page](http://www.vpr.net/irene) though the best jumping off point is probably the [FEMA page](http://www.vpr.net/apps/mapping-the-money/fema).
+
+##Project Changes
+This project was put together over the course of three months in the summer of 2013. While this repository is dated more recently, the code has remained unedited prior to the creation of this repository.
+
+I'm planning on making some minor changes to the navigation, but will otherwise leave the project&mdash;including my clunky javascript&mdash;largely unchanged.
 
 ## Author
 [Matt Parrilla](http://twitter.com/mattparrilla)
 
 ##Copyright and License
 
-Copyright 2013 Vermont Public Radio
+Copyright 2014 Vermont Public Radio
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License.
 You may obtain a copy of the License in the LICENSE file, or at:

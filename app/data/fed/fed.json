@@ -1,0 +1,228 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "id": "52",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.164338, 44.1197293]
+        },
+        "properties": {
+            "name": "Addison County",
+            "dollars": 449693,
+            "unit": "county",
+            "ECP": 20590,
+            "LIP": 0,
+            "NAP": 0,
+            "SURE": 429103
+        }
+    }, {
+        "type": "Feature",
+        "id": "53",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.1349605, 43.0278745]
+        },
+        "properties": {
+            "name": "Bennington County",
+            "dollars": 79730,
+            "unit": "county",
+            "ECP": 49608,
+            "LIP": 3451,
+            "NAP": 0,
+            "SURE": 26671
+        }
+    }, {
+        "type": "Feature",
+        "id": "54",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.0481907, 44.55051]
+        },
+        "properties": {
+            "name": "Caledonia County",
+            "dollars": 5948,
+            "unit": "county",
+            "ECP": 5948,
+            "LIP": 0,
+            "NAP": 0,
+            "SURE": 0
+        }
+    }, {
+        "type": "Feature",
+        "id": "55",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.9962431, 44.3959289]
+        },
+        "properties": {
+            "name": "Chittenden County",
+            "dollars": 51246,
+            "unit": "county",
+            "ECP": 18188,
+            "LIP": 0,
+            "NAP": 17711,
+            "SURE": 15347
+        }
+    }, {
+        "type": "Feature",
+        "id": "56",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.7436155, 44.7682631]
+        },
+        "properties": {
+            "name": "Essex County",
+            "dollars": 0,
+            "unit": "county",
+            "ECP": 0,
+            "LIP": 0,
+            "NAP": 0,
+            "SURE": 0
+        }
+    }, {
+        "type": "Feature",
+        "id": "57",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.9340443, 44.8429222]
+        },
+        "properties": {
+            "name": "Franklin County",
+            "dollars": 44216,
+            "unit": "county",
+            "ECP": 38472,
+            "LIP": 0,
+            "NAP": 5744,
+            "SURE": 0
+        }
+    }, {
+        "type": "Feature",
+        "id": "58",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.2957299, 44.8595928]
+        },
+        "properties": {
+            "name": "Grand Isle County",
+            "dollars": 0,
+            "unit": "county",
+            "ECP": 0,
+            "LIP": 0,
+            "NAP": 0,
+            "SURE": 0
+        }
+    }, {
+        "type": "Feature",
+        "id": "59",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.6314026, 44.6433418]
+        },
+        "properties": {
+            "name": "Lamoille County",
+            "dollars": 44594,
+            "unit": "county",
+            "ECP": 44594,
+            "LIP": 0,
+            "NAP": 0,
+            "SURE": 0
+        }
+    }, {
+        "type": "Feature",
+        "id": "60",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.4003713, 44.0014186]
+        },
+        "properties": {
+            "name": "Orange County",
+            "dollars": 41808,
+            "unit": "county",
+            "ECP": 41808,
+            "LIP": 0,
+            "NAP": 0,
+            "SURE": 0
+        }
+    }, {
+        "type": "Feature",
+        "id": "61",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.2603468, 44.8905506]
+        },
+        "properties": {
+            "name": "Orleans County",
+            "dollars": 10382,
+            "unit": "county",
+            "ECP": 2402,
+            "LIP": 7980,
+            "NAP": 0,
+            "SURE": 0
+        }
+    }, {
+        "type": "Feature",
+        "id": "62",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.9932969, 43.6448675]
+        },
+        "properties": {
+            "name": "Rutland County",
+            "dollars": 674700,
+            "unit": "county",
+            "ECP": 352158,
+            "LIP": 250,
+            "NAP": 0,
+            "SURE": 322292
+        }
+    }, {
+        "type": "Feature",
+        "id": "63",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.6972529, 44.1986663]
+        },
+        "properties": {
+            "name": "Washington County",
+            "dollars": 156524,
+            "unit": "county",
+            "ECP": 130402,
+            "LIP": 0,
+            "NAP": 55216,
+            "SURE": 23922
+        }
+    }, {
+        "type": "Feature",
+        "id": "64",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.8042797, 43.0151325]
+        },
+        "properties": {
+            "name": "Windham County",
+            "dollars": 178029,
+            "unit": "county",
+            "ECP": 98821,
+            "LIP": 0,
+            "NAP": 55216,
+            "SURE": 23992
+        }
+    }, {
+        "type": "Feature",
+        "id": "65",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.6151169, 43.4369244]
+        },
+        "properties": {
+            "name": "Windsor County",
+            "dollars": 792612,
+            "unit": "county",
+            "ECP": 785629,
+            "LIP": 6983,
+            "NAP": 0,
+            "SURE": 0
+        }
+    }]
+}

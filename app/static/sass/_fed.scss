@@ -1,0 +1,235 @@
+.fed-description {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.2em;
+    margin-right: 15px;
+    &:first-child {
+        @media (min-width: 980px) {
+            margin-top: 60px;
+        }
+        @media (max-width: 979px) {
+            margin-top: 10px;
+        }
+    }
+}
+
+div.fed-row {
+    margin-left: -20px;
+    h3 {
+        font-size: 18px;
+        color: #888;
+        margin-left: 50px;
+        line-height: 1em;
+        margin-top: 0;
+    }
+    @media (max-width: 480px) {
+        h3 {
+            margin-left: 5px;
+        }
+        .span6 {
+            margin-left: 0px;
+        }
+    }
+}
+
+#fha-mapbox, #fsa-mapbox {
+    margin-left: -20px;
+}
+
+.nrcs {
+    #chart-2 {
+        margin-top: 10px;
+        height: 250px !important;
+        overflow: hidden;
+    }
+}
+
+div.fed-row .span6 {
+    margin-left: 20px;
+}
+
+circle.guide {
+    opacity: 0.8;
+}
+
+div.fed-row #chart-1 {
+    max-width: 400px;
+}
+
+div.fed-row #chart-0 {
+    max-width: 400px;
+}
+
+@media (max-width: 980px) and (min-width: 650px) {
+    .description-span {
+        width: 460px;
+    }
+    .fed-row {
+        margin-left: 80px;
+    }
+}
+
+div.fha p.fed-description:first-child {
+    margin-top: 10px;
+}
+@media (min-width: 980px) {
+    div.fha p.fed-description:first-child {
+        margin-top: 120px;
+    }
+
+    div.fsa p.fed-description:first-child {
+        margin-top: 10px;
+    }
+
+    div.eda p.fed-description:first-child {
+        margin-top: 100px;
+    }
+    div.nrcs p.fed-description:first-child {
+        margin-top: 100px;
+    }
+}
+
+.click-more {
+    color: steelblue;
+}
+
+#fha-explanation {
+    font-size: 16px;
+    color: #888;
+}
+
+#eda-additional, #hud-additional {
+    display: none;
+    line-height: 1em;
+    margin-top: 0px;
+    h4 {
+        font-weight: 500;
+        font-size: 14px;
+        margin-bottom: 0px;
+    }
+    p {
+        color: #777;
+        font-size: 12px;
+    }
+}
+
+#hud-additional {
+    margin-top: 60px;
+}
+
+div.rd .span6 {
+    max-width: 400px;
+    margin-left: 50px;
+    line-height: 1em;
+    @media (max-width: 480px) {
+        margin-left: 5px;
+        h4 {
+            font-size: 18px;
+            font-weight: 400;
+        }
+        h5 {
+            font-size: 14px;
+            font-weight: 400;
+        }
+        p {
+            font-size: 14px;
+        }
+    }
+    h4 {
+        font-size: 22px;
+        font-weight: 500;
+    }
+    h5 {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    p {
+        color: #666;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 1em;
+    }
+}
+
+#fsa-table {
+    display: none;
+    margin-top: 20px;
+    table td {
+        max-width: 50px;
+        font-size: 12px;
+        text-align: right;
+    }
+    table th {
+        text-align: right;
+    }
+    table th:first-child {
+        text-align: left;
+    }
+    table td:first-child {
+        max-width: 60px;
+        text-align: left;
+    }
+    @media (max-width: 480px) {
+        table td, table td:first-child {
+            font-size: 10px;
+            max-width: 30px;
+        }
+    }
+}
+
+@media (max-width: 480px) {
+    .fsa div.span6 {
+        margin-left: 0px;
+    }
+    #fha-mapbox {
+        margin-left: -60px;
+    }
+    #fsa-mapbox {
+        margin-left: -40px;
+    }
+    #chart-0, #chart-1 {
+        margin-left: -23px;
+    }
+    #chart-2 {
+        margin-left: -75px;
+    }
+    .description-span {
+        margin-left: 0 !important;
+    }
+}
+
+div.fed-row p.click-back {
+    font-size: 14px;
+    color: steelblue !important;
+    text-decoration: underline;
+}
+
+#fsa-programs {
+    padding: 10px 0 10px;
+    h4 {
+        font-weight: 500;
+        font-size: 16px;
+    }
+    p {
+        font-weight: 300;
+    }
+}
+
+@media (min-width: 980px) {
+    #chart-1, #chart-0 {
+        margin-left: 10px;
+    }
+}
+
+text.legend {
+    font-size: 12px;
+}
+
+.fed-explanation {
+    font-weight: 400;
+    color: #777;
+}
+
+tr.loans {
+    color: #777;
+}
